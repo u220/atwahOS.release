@@ -1,4 +1,4 @@
-# atwahOS Rekease
+# atwahOS Release
 ## License
 This software is licensed under the General Public License, version 3.0, or at your option any later version.
 ## Description
